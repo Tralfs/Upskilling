@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="98fcfb82-aa76-4bc6-bce4-6e2332b08544" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/LeetCode/TwoSum/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/LeetCode/TwoSum/TwoSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/LeetCode/ValidParantheses/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/LeetCode/ValidParantheses/ValidParantheses.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/Patterns/Builder/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/Patterns/Builder/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/Patterns/Decorator/Coffee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/Patterns/Decorator/CoffeeDecorator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/Patterns/Decorator/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/Patterns/Decorator/MilkDecorator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/Patterns/Decorator/SimpleCoffee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/Patterns/Decorator/SugarDecorator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/Patterns/Facade/Amplifier.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/Patterns/Facade/DVDPlayer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/Patterns/Facade/HomeTheaterFacade.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/Patterns/Facade/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/Patterns/Facade/Projector.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/Patterns/FactoryMethod/Logistics.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/Patterns/FactoryMethod/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/Patterns/FactoryMethod/RoadLogistics.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/Patterns/FactoryMethod/SeaLogistics.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/Patterns/FactoryMethod/Ship.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/Patterns/FactoryMethod/Transport.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/Patterns/FactoryMethod/Truck.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/Patterns/Listener/Button.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/Patterns/Listener/ButtonClickHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/Patterns/Listener/ClickListener.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/Patterns/Listener/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/Patterns/SimpleFactory/Bike.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/Patterns/SimpleFactory/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/Patterns/SimpleFactory/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/Patterns/SimpleFactory/Truck.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/Patterns/SimpleFactory/Vehicle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/Patterns/SimpleFactory/VehicleFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/Patterns/Strategy/BubbleSortStrategy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/Patterns/Strategy/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/Patterns/Strategy/QuickSortStrategy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/Patterns/Strategy/SortContext.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/Patterns/Strategy/SortStrategy.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Kotlin Class" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
+  <component name="ProjectId" id="2lNYPR6URibLMyilsDHTkaHJyWt" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Main.executor": "Run",
+    "Application.main.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\torbe\Documents\GitHub\Upskilling\Upskilling\src\main\java\org\LeetCode\Two-Sum" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="98fcfb82-aa76-4bc6-bce4-6e2332b08544" name="Changes" comment="" />
+      <created>1725021980662</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1725021980662</updated>
+    </task>
+    <servers />
+  </component>
+</project>
