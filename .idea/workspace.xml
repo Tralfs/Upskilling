@@ -5,14 +5,59 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="98fcfb82-aa76-4bc6-bce4-6e2332b08544" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/Essentials/Concurrency/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/Essentials/Concurrency/MyRunnable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/Essentials/Concurrency/MyThread.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/Essentials/Streams/Benutzer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/Essentials/Streams/Kunde.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/Essentials/Streams/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/Essentials/Streams/StreamableInterface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/src/org/java/Essentials/Concurrency/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/src/org/java/Essentials/Concurrency/MyCallable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/src/org/kotlin/HelloWorld.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/Essentials/Concurrency/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/Essentials/Concurrency/MyRunnable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/src/org/java/Essentials/Concurrency/MyRunnable.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/Essentials/Concurrency/MyThread.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/src/org/java/Essentials/Concurrency/MyThread.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/Essentials/Streams/Benutzer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/src/org/java/Essentials/Streams/Benutzer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/Essentials/Streams/Kunde.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/src/org/java/Essentials/Streams/Kunde.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/Essentials/Streams/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/src/org/java/Essentials/Streams/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/Essentials/Streams/StreamableInterface.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/src/org/java/Essentials/Streams/StreamableInterface.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/LeetCode/TwoSum/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/src/org/java/LeetCode/TwoSum/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/LeetCode/TwoSum/TwoSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/src/org/java/LeetCode/TwoSum/TwoSum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/LeetCode/ValidParantheses/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/src/org/java/LeetCode/ValidParantheses/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/LeetCode/ValidParantheses/ValidParantheses.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/src/org/java/LeetCode/ValidParantheses/ValidParantheses.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/Patterns/Builder/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/src/org/java/Patterns/Builder/Car.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/Patterns/Builder/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/src/org/java/Patterns/Builder/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/Patterns/Decorator/Coffee.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/src/org/java/Patterns/Decorator/Coffee.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/Patterns/Decorator/CoffeeDecorator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/src/org/java/Patterns/Decorator/CoffeeDecorator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/Patterns/Decorator/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/src/org/java/Patterns/Decorator/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/Patterns/Decorator/MilkDecorator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/src/org/java/Patterns/Decorator/MilkDecorator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/Patterns/Decorator/SimpleCoffee.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/src/org/java/Patterns/Decorator/SimpleCoffee.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/Patterns/Decorator/SugarDecorator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/src/org/java/Patterns/Decorator/SugarDecorator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/Patterns/Facade/Amplifier.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/src/org/java/Patterns/Facade/Amplifier.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/Patterns/Facade/DVDPlayer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/src/org/java/Patterns/Facade/DVDPlayer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/Patterns/Facade/HomeTheaterFacade.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/src/org/java/Patterns/Facade/HomeTheaterFacade.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/Patterns/Facade/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/src/org/java/Patterns/Facade/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/Patterns/Facade/Projector.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/src/org/java/Patterns/Facade/Projector.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/Patterns/FactoryMethod/Logistics.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/src/org/java/Patterns/FactoryMethod/Logistics.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/Patterns/FactoryMethod/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/src/org/java/Patterns/FactoryMethod/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/Patterns/FactoryMethod/RoadLogistics.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/src/org/java/Patterns/FactoryMethod/RoadLogistics.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/Patterns/FactoryMethod/SeaLogistics.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/src/org/java/Patterns/FactoryMethod/SeaLogistics.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/Patterns/FactoryMethod/Ship.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/src/org/java/Patterns/FactoryMethod/Ship.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/Patterns/FactoryMethod/Transport.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/src/org/java/Patterns/FactoryMethod/Transport.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/Patterns/FactoryMethod/Truck.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/src/org/java/Patterns/FactoryMethod/Truck.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/Patterns/Listener/Button.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/src/org/java/Patterns/Listener/Button.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/Patterns/Listener/ButtonClickHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/src/org/java/Patterns/Listener/ButtonClickHandler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/Patterns/Listener/ClickListener.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/src/org/java/Patterns/Listener/ClickListener.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/Patterns/Listener/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/src/org/java/Patterns/Listener/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/Patterns/SimpleFactory/Bike.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/src/org/java/Patterns/SimpleFactory/Bike.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/Patterns/SimpleFactory/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/src/org/java/Patterns/SimpleFactory/Car.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/Patterns/SimpleFactory/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/src/org/java/Patterns/SimpleFactory/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/Patterns/SimpleFactory/Truck.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/src/org/java/Patterns/SimpleFactory/Truck.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/Patterns/SimpleFactory/Vehicle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/src/org/java/Patterns/SimpleFactory/Vehicle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/Patterns/SimpleFactory/VehicleFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/src/org/java/Patterns/SimpleFactory/VehicleFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/Patterns/Strategy/BubbleSortStrategy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/src/org/java/Patterns/Strategy/BubbleSortStrategy.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/Patterns/Strategy/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/src/org/java/Patterns/Strategy/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/Patterns/Strategy/QuickSortStrategy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/src/org/java/Patterns/Strategy/QuickSortStrategy.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/Patterns/Strategy/SortContext.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/src/org/java/Patterns/Strategy/SortContext.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/Patterns/Strategy/SortStrategy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/src/org/java/Patterns/Strategy/SortStrategy.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,9 +67,10 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Kotlin Class" />
         <option value="Interface" />
         <option value="Class" />
+        <option value="Kotlin Script" />
+        <option value="Kotlin Class" />
       </list>
     </option>
   </component>
@@ -49,6 +95,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
     "kotlin-language-version-configured": "true",
     "project.structure.last.edited": "Artifacts",
     "project.structure.proportion": "0.0",
